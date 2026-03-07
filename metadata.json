@@ -1,0 +1,7 @@
+{
+  "name": "Teddy & Friends - ร้านขายตุ๊กตาออนไลน์",
+  "description": "ระบบร้านขายตุ๊กตาครบวงจร พร้อมระบบจัดการหลังบ้านและชำระเงิน",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
